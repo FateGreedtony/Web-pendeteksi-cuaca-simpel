@@ -1,4 +1,4 @@
-const API_KEY = "d84d04bb08da9764ba0274e506eed2a3"; // Ganti dengan API key dari OpenWeatherMap
+const API_KEY = "GET_YOUR_API_YOURSELF"; 
 
 $("#searchBtn").on("click", function() {
   const cityName = $("#cityInput").val().trim();
